@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./js/swiper-4.5.0/dist/css/swiper.min.css">
+    <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/mi.css">
+    <link rel="stylesheet" href="./icon/fonticon/iconfont.css">
+
+</head>
+
+<body>
+    <!-- 顶部导航条                     -->
+    <div class="container">
+        <nav>
+            <div class="head-nav">
+                <a class="nav-a" href="javascript:;">小米商城</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">MIUI</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">IoT</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">云服务</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">金融</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">有品</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">小爱开放平台</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">企业团购</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">资质证照</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">协议规则</a><span class="sep">|</span>
+                <a class="nav-a nav-app" href="javascript:;"> 下载app
+                    <div class="abbr">
+                        <div class="arrows"></div>
+                        <div class="abbr-app">
+                            <img src="./img/download.png" alt="">
+                            <p class="app">小米商城APP</p>
+                        </div>
+                    </div>
+                </a>
+                <span class="sep">|</span>
+                <a class="nav-a" href="javascript:;" id="show">Select Region</a>
+            </div>
+            <div class="car">
+                <div class="car-info">
+                    <a class="car-a" href="javascript:;"><span
+                            class="iconfont mi-car">&#xe707;</span>购物车<span>（0）</span></a>
+                </div>
+                <div class="car-blcok">
+                    购物车中还没有商品，赶紧选购吧！
+                </div>
+            </div>
+            <div class="head-info">
+                <a class="nav-a" href="javascript:;">小米商城</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">MIUI</a><span class="sep">|</span>
+                <a class="nav-a" href="javascript:;">IoT</a>
+            </div>
+        </nav>
+    </div>
+
+    <!-- 点击出现 -->
+
+    <div class="showwrap">
+        <div class="show-top">
+            <span>Select Region</span> <i class="x">X</i>
+        </div>
+        <div class="show-bottom">
+            <h3 class="welcome">Welcome to Mi.com</h3>
+            <p class="country">Please select your country or region</p>
+            <div class="site">
+                <a href="javascript:;">Hong Kong</a>
+                <a href="javascript:;">Taiwan</a>
+                <a href="javascript:;">Singapore</a>
+                <a href="javascript:;">Malaysia</a>
+                <a href="javascript:;">Philippines</a>
+                <a href="javascript:;">India</a>
+                <a href="javascript:;">Indonesia</a>
+                <a href="javascript:;">Global Home</a>
+                <a href="javascript:;">MENA</a>
+                <a href="javascript:;">Poland</a>
+                <a href="javascript:;">Ukraine</a>
+                <a href="javascript:;">Russia</a>
+                <a href="javascript:;">Vietnam</a>
+                <a href="javascript:;">Mexico</a>
+                <a href="javascript:;">Korea</a>
+                <a href="javascript:;">Egypt</a>
+                <a href="javascript:;">Thailand</a>
+                <a href="javascript:;">Spain</a>
+                <a href="javascript:;">United States</a>
+                <a href="javascript:;">Italy</a>
+                <a href="javascript:;">France</a>
+                <a href="javascript:;">Bangladesh</a>
+                <a href="javascript:;">United Kingdom</a>
+                <a href="javascript:;">Chile</a>
+                <a href="javascript:;">Nepal</a>
+                <a href="javascript:;">Sri Lanka</a>
+                <a href="javascript:;">Turkey</a>
+                <a href="javascript:;">Netherlands</a>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="showbox"></div>
+
+    <!-- 搜索 -->
+    <div class="heaer">
+        <div class="heaer-content">
+            <div class="logo">
+                <a class="logo-a" href="">
+                    <img src="./img/mi-logo.png" alt="">
+                </a>
+            </div>
+            <div class="nav-list">
+                <ul class="list">
+                    <div class="showbox-wrap">
+                        <li class="goods-item" data-id="phone">
+                            <a class="link" href="javascript:;"><span class="txt">小米手机</span></a>
+                        </li>
+                        <li class="goods-item" data-id="redmi"><a class="link" href="javascript:;"><span
+                                    class="txt">红米</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">电视</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">笔记本</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">家电</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">新品</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">路由器</span></a></li>
+                        <li class="goods-item"><a class="link" href="javascript:;"><span class="txt">智能硬件</span></a>
+                        </li>
+                        <div class="goods-slide-wrap">
+                            <div class="goods-slide-content" id="goods-slide-content">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 商品内容弹出层 -->
+
+                    <li class="goods-item goods-item-unhover"><a class="link" href="javascript:;"><span
+                                class="txt">服务</span></a></li>
+                    <li class="goods-item goods-item-unhover"><a class="link" href="javascript:;"><span
+                                class="txt">社区</span></a></li>
+                </ul>
+
+
+            </div>
+            <div class="header-search">
+                <form action="">
+                    <input class="inp iconfont" type="submit" value="&#xe63d;">
+                    <div class="search-hot">
+                        <a href="">小米9</a><a href="">小米9 ES</a>
+                    </div>
+                    <input class="search" type="text">
+                    <div class="keywordList">
+                        <ul class="result-list">
+                            <li><a href="javascript:;">小米6X <span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">小米MIX 2S<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">黑鲨游戏手机<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">红米Note 5<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">红米5A<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">小米电视4C<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">电视32英寸<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">笔记本pro<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">空气净化器<span class="result">约有5件</span></a></li>
+                            <li><a href="javascript:;">净水器<span class="result">约有5件</span></a></li>
+                        </ul>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- 轮播  -->
+
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="./img/lunbo0.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="./img/lunbo1.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="./img/lunbo2.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="./img/lunbo3.jpg" alt=""></div>
+            <div class="swiper-slide"><img src="./img/lunbo4.jpg" alt=""></div>
+        </div>
+
+
+        <!-- 如果需要导航按钮 -->
+        <div class="swiper-button">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+        <div class="arrowhead">
+            <div class="swiper-pagination"></div>
+        </div>
+
+
+        <div class="listbox">
+            <ul class="list-wrap">
+                <li class="list-content"><a href="javascript:;">手机 电话卡<span
+                            class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">电视 盒子<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">笔记本 平板<span
+                            class="iconfont listicon">&#xe63f;</span></a></li>
+                <li class="list-content"><a href="javascript:;">家电 插线板<span
+                            class="iconfont listicon">&#xe63f;</span></a></li>
+                <li class="list-content"><a href="javascript:;">出行 穿戴<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">智能 路由器<span
+                            class="iconfont listicon">&#xe63f;</span></a></li>
+                <li class="list-content"><a href="javascript:;">电源 配件<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">健康 儿童<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">耳机 音箱<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <li class="list-content"><a href="javascript:;">生活 箱包<span class="iconfont listicon">&#xe63f;</span></a>
+                </li>
+                <!-- 轮播的hover -->
+                <div class="list-content-wrap">
+                    <ul class="children">
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                        <li class="children-list"><a class="children-list-a" href=""><img src=""
+                                    alt=""><span></span></a></li>
+                    </ul>
+                </div>
+            </ul>
+        </div>
+
+    </div>
+    <!-- 广告 -->
+    <div class="row">
+        <div class="span4">
+            <ul class="span4-list">
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe609;</span><span>选购手机</span></a></li>
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe6c6;</span><span>企业团购</span></a></li>
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe60b;</span><span>F码通道</span></a></li>
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe678;</span><span>米粉卡</span></a></li>
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe6c6;</span><span>以旧换新</span></a></li>
+                <li class="span4-list-wrap"><a href="javascript:;"><span
+                            class="iconfont icona">&#xe678;</span><span>话费充值</span></a></li>
+            </ul>
+        </div>
+
+        <div class="advertising">
+            <div class="advertising-pic"><a href=""><img src="./img/xmad_15410599445473_Ivjsb.jpg" alt=""></a> </div>
+            <div class="advertising-pic"><a href=""><img src="./img/xmad_15589747473883_mCjDP.jpg" alt=""></a> </div>
+            <div class="advertising-pic"><a href=""><img src="./img/xmad_15589747911972_CqYOW.jpg" alt=""></a> </div>
+        </div>
+    </div>
+
+    <!-- 单行广告 -->
+    <div class="pic-abs">
+        <a href="javascript:;"><img src="./img/xmad_15590330241391_fkvOo.jpg" alt=""></a>
+    </div>
+
+
+
+    <div class="container-wrap">
+        <!-- 手机展示 -->
+        <div class="pheno-nav">
+            <span class="pheno-nav-left">手机</span>
+            <a class="pheno-nav-rigth" href=""><span class="adsa">查看全部</span><span class="iconfont">&#xe73d;</span></a>
+        </div>
+        <div class="pheno" id="pheno">
+            <div class="pheno-left hover-tran">
+                <img src="./img/xmad_15589606696364_lPMvT.jpg" alt="">
+            </div>
+            <div class="pheno-rigth " id="pheno-rigth">
+                <!-- <div class="pheno-content">
+                    <div class="flag">
+                        dd
+                    </div>
+                    <a class="" href=""><img src="https://i1.mifile.cn/a1/pms_1528719461.20891365!220x220.jpg" alt=""></a>
+                    <a class="pheno-content-name" href="">asdss招待费asdasd</a>
+                    <span class="pheno-content-title">dsasdad</span>
+                    <p class="pheno-content-price">asdss22asd <del>asda</del></p>
+                </div> -->
+
+            </div>
+        </div>
+
+        <!-- 家电 -->
+        <div class="homeAppliances">
+            <div class="homeAppliances-nav">
+                <div class="appliances">
+                    家电
+                </div>
+                <div class="appliances-title">
+                    <div class="appliances-title-name" data-num="hot">热门</div>
+                    <div class="appliances-title-name" data-num="movie">电影影音</div>
+                    <div class="appliances-title-name" data-num="computer">电脑</div>
+                    <div class="appliances-title-name" data-num="furniture">家具</div>
+                </div>
+            </div>
+            <div class="homeAppliances-content">
+                <div class="homeAppliances-left">
+                    <div class="homeAppliances-left-a">
+                        <a href=""><img src="https://i1.mifile.cn/a4/xmad_15021710762698_QXnBu.jpg"></a>
+                    </div>
+
+                    <div class="homeAppliances-left-b hover-tran">
+                        <a href=""><img src="https://i1.mifile.cn/a4/xmad_14967432043621_gmlxi.jpg"></a>
+                    </div>
+                </div>
+                <div class="homeAppliances-rigth">
+
+                    
+
+                    <!-- <div class="homeAppliances-rigth-box hover-tran">
+                        <div class="homeAppliances-top">
+                            s十九大
+                        </div>
+                        <a href=""><img src="https://i1.mifile.cn/a1/pms_1555935546.09711490!220x220.jpg" alt=""></a>
+                        <a href="" class="homeAppliances-content-name">wadd</a>
+                        <span class="homeAppliances-content-title">dsasdad</span>
+                        <p class="homeAppliances-content-price">asdss22asd <del>asda</del></p>
+                        <div class="hide-box">
+                            <a class="hide-box-title" href="">
+                                <p>挺时尚前卫的，电视柜没到，主机先放箱子上。谢谢雷总及...</p>
+                                <span> 来自于 瑞子宏 的评价 </span>
+                            </a>
+                        </div>
+                    </div> -->
+                
+                    <!-- <div class="homeAppliances-rigth-box homeAppliances-flagbox">
+                        <div class="homeAppliances-flag desc hover-tran">
+                            <div class="desc-left">
+                                <a href=""> 小米水质TDS检测笔</a>
+                                <p>39元</p>
+                            </div>
+                            <div class="desc-img"><a href=""><img src="https://i1.mifile.cn/a4/T1KzbQBvbT1RXrhCrK.jpg"
+                                        alt=""></a></div>
+                        </div>
+                        <div class="desc hover-tran">
+                            <div class="desc-left">
+                                <h2>浏览更多</h2>
+                                <span class="desc-left-span">健康</span>
+                            </div>
+                            <div class="desc-img dd">
+                                <span class="iconfont" id="desc-img-span">&#xe643;</span>
+                            </div>
+                        </div>
+                    </div> -->
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+<div class="dad"></div>
+
+
+
+    </div>
+
+
+
+</body>
+<script src="https://cdn.bootcss.com/jquery/3.3.0/jquery.js"></script>
+<script src="./js/index.js"></script>
+<script src="./js/swiper-4.5.0/dist/js/swiper.min.js"></script>
+<script>
+
+</script>
+
+</html>

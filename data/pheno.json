@@ -1,0 +1,68 @@
+{
+    "phone": [
+        {
+            "isNew": false,
+            "imgUrl": "http://i1.mifile.cn/f/i/g/2015/cn-index/mi9-320.png",
+            "name": "小米9 6GB+128GB",
+            "particulars": "骁龙855，索尼4800万超广角微距三摄",
+            "price": "2999元",
+            "cost":"1999元"
+        },
+        {
+            "isNew": false,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1550642182.7527088!220x220.jpg",
+            "name": "小米9 SE 6GB+64GB",
+            "particulars": "索尼4800万超广角三摄，骁龙712",
+            "price": "1999元",
+            "cost":"1899元"
+        },
+        {
+            "isNew": false,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1550646283.24414368!220x220.jpg",
+            "name": "Redmi Note 7 3GB+32G",
+            "particulars": "4800万拍照千元机，18个月超长质保",
+            "price": "1499元",
+            "cost":"1459元"
+        },
+        {
+            "isNew": false,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1547020852.30751177!220x220.jpg",
+            "name": "小米Play 4GB+64GB",
+            "particulars": "5.84小水滴全面屏，后置1200万 AI 双摄",
+            "price": "3299元",
+            "cost":"2999元"
+        },
+        {
+            "isNew": false,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1545457719.47232999!220x220.png",
+            "name": "小米8青春版6GB+64GB",
+            "particulars": "潮流镜面渐变色，2400万自拍旗舰",
+            "price": "2599元",
+            "cost":null
+        },
+        {
+            "isNew": true,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1537324004.08544830!220x220.jpg",
+            "name": "小米8 SE 6GB+64GB",
+            "particulars": "三星 AMOLED 全面屏，骁龙710",
+            "price": "1099元",
+            "cost":null
+        },
+        {
+            "isNew": true,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1528719461.20891365!220x220.jpg",
+            "name": "小米6X 6GB+128GB",
+            "particulars": "轻薄美观的拍照手机",
+            "price": "1099元",
+            "cost":null
+        },
+        {
+            "isNew": true,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1524621350.77238418!220x220.jpg",
+            "name": "红米6A 2GB+16GB",
+            "particulars": "12nm高性能处理器，1300万高清相机",
+            "price": "1099元",
+            "cost":null
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "phoneList":[
+        {
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/mi9-320.png",
+            "name":"小米9",
+            "price":"2999元"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/mi9se-320.png",
+            "name":"小米9 SE",
+            "price":"1999元"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/qingchun-320.png",
+            "name":"小米8 青春版",
+            "price":"1499"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/mix3-320.png",
+            "name":"小米MIX 3",
+            "price":"3299元"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-220-mi8.png",
+            "name":"小米8",
+            "price":"2599元"
+        },{
+            "isNew":true,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/pc-320-miplay-1.png",
+            "name":"小米Play",
+            "price":"1099"
+        }
+    ],
+    "redMiList":[
+        {
+            "isNew":true,
+            "imgUrl":"http://i1.mifile.cn/f/i/2019/redmik20pro/red.jpg",
+            "name":"Redmi K20 Pro",
+            "price":"2499元"
+        },{
+            "isNew":true,
+            "imgUrl":"http://i1.mifile.cn/f/i/2019/redmik20/lanse.jpg",
+            "name":"Redmi K20",
+            "price":"1999元"
+        },{
+            "isNew":true,
+            "imgUrl":"http://i1.mifile.cn/f/i/2019/redmi7a/black.jpg",
+            "name":"Redmi 7A",
+            "price":"549元"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2019/redmi.jpg",
+            "name":"Redmi Note7 Pro",
+            "price":"1599元"
+        },{
+            "isNew":false,
+            "imgUrl":"http://i1.mifile.cn/f/i/g/2015/cn-index/note7320-220.png",
+            "name":"Redmi Note7",
+            "price":"999元"
+        },{
+            "isNew":false,
+            "imgUrl":"https://i1.mifile.cn/f/i/2019/redmi7/320-220.png",
+            "name":"Redmi",
+            "price":"699元"
+        }
+    ]
+}

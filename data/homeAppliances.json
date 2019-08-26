@@ -1,0 +1,305 @@
+
+{
+    "hot": [
+        {   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a4/xmad_15512365381648_yZpKS.jpg",
+            "name": "米家互联网洗烘一体机10kg",
+            "particulars": null,
+            "price": "2999元",
+            "cost":null,
+            "evaluate":"挺好的，洗的也干净，白色很简单，好看",
+            "username":" 来自于 白羊董小姐 的评价 "
+        },
+        {   
+            "title":"减400元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1545286017.38639954!220x220.jpg",
+            "name": "米家互联网空调（一级能效）",
+            "particulars": null,
+            "price": "2999元",
+            "cost":"2499",
+            "evaluate":"空调很好，杠杠滴，颜值杠杠滴，帅呆了",
+            "username":" 来自于 星月的辉歌 的评价 "
+        } ,{   
+            "title":"新品",
+            "imgUrl": "https://i1.mifile.cn/a4/xmad_15350951136177_QUuVm.png",
+            "name": "15.6笔记本 i5 4G MX110",
+            "particulars": null,
+            "price": "2999元",
+            "cost":null,
+            "evaluate":"物流很快的，笔记本很流畅，体验超级棒，显示屏很清晰",
+            "username":"  来自于 小小快乐 的评价  "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1524636075.71677607!220x220.jpg",
+            "name": "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+            "particulars": null,
+            "price": "5999元",
+            "cost":null,
+            "evaluate":"轻薄完美，深空灰超帅！",
+            "username":" 来自于 1*215219 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a4/xmad_14972549116226_tZpod.png",
+            "name": "米家空气净化器Pro",
+            "particulars":"OLED 显示屏幕 / 激光颗粒物传感器",
+            "price": "1499元",
+            "cost":null,
+            "evaluate":"小小的 喜欢 希望可以用久一点 还是不错的",
+            "username":"来自于 2156774032 的评价"
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1504498936.11861982!220x220.jpg",
+            "name": "米家电水壶",
+            "particulars":"一杯水，是一家人的安心",
+            "price": "99元",
+            "cost":null,
+            "evaluate":"变成忠实的米粉了，烧水很快声音也小，顺便晒几张小米8...",
+            "username":" 来自于 针掉在路上 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a4/xmad_15281923207128_rOfDp.png",
+            "name": "米家LED吸顶灯",
+            "particulars":"用光线，还原理想生活",
+            "price": "399元",
+            "cost":null,
+            "evaluate":"灯光明亮，家里也用小米吸顶灯，店里也用，质量很好！手...",
+            "username":" 来自于 余崇泰 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1521634907.16181074!220x220.jpg",
+            "name": "小米净水器（厨下式）",
+            "particulars":null,
+            "price": "1999元",
+            "cost":null,
+            "evaluate":null,
+            "username":"热门"
+        }
+
+    ],"movie":[
+        {   
+            "title":"新品",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1555935546.09711490!220x220.jpg",
+            "name": "小米壁画电视 65英寸",
+            "particulars": null,
+            "price": "6999元",
+            "cost":null,
+            "evaluate":"挺时尚前卫的，电视柜没到，主机先放箱子上。谢谢雷总及...",
+            "username":" 来自于 瑞子宏 的评价  "
+        },{   
+            "title":"新品",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1555947485.70419235!220x220.jpg",
+            "name": "小米全面屏电视E55A",
+            "particulars": null,
+            "price": "2499元",
+            "cost":"2999元",
+            "evaluate":"新国货很棒，一直支持小米，希望越做越好",
+            "username":" 来自于 2245825633 的评价 "
+        },{   
+            "title":"减100元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1500287084.72131750!220x220.jpg",
+            "name": "小米电视4A 32英寸",
+            "particulars": "64位四核处理器 / 1GB+4GB大内存",
+            "price": "799元",
+            "cost":"899元",
+            "evaluate":"过年给父母买的，外形漂亮、小米品质好。我一直都用小米...",
+            "username":"  来自于 康熙 的评价"
+        },{   
+            "title":"减350元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1522318330.86967810!220x220.jpg",
+            "name": "小米电视4C 50英寸",
+            "particulars": "4K HDR / 人工智能语音",
+            "price": "1749元",
+            "cost":"2099元",
+            "evaluate":"专程赶到浦西去试了下米酒的拍照功能，还可以吧",
+            "username":"来自于 陈道达 的评价 "
+        },{   
+            "title":"减200元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1539315570.63599432!220x220.jpg",
+            "name": "小米电视4X 43英寸",
+            "particulars": null,
+            "price": "1299元",
+            "cost":"1499元",
+            "evaluate":"电视很好，够清晰，这个价格打特价很划算。",
+            "username":" 来自于 1432693760 的评价 "
+        },{   
+            "title":"打8折",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1535103027.24861415!220x220.jpg",
+            "name": "小米电视4A 65英寸",
+            "particulars": null,
+            "price": "2849元",
+            "cost":"3699元",
+            "evaluate":"满意，品质好，高清。使用很方便。超大，性价比高，",
+            "username":" 来自于 嘎嘎鹭 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1516975996.71444436!220x220.jpg",
+            "name": "小米盒子4",
+            "particulars": null,
+            "price": "299元",
+            "cost":null,
+            "evaluate":"评论晚了不好意思，盒子效果不错很实用看节目语音方便",
+            "username":" 来自于 阿凡达 的评价 "
+        
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1516976220.59976234!220x220.jpg",
+            "name": "小米盒子4c",
+            "particulars":null,
+            "price": "199元",
+            "cost":null,
+            "evaluate":null,
+            "username":"电影影音"
+        }
+    ],"computer":[
+        {   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1533266333.04566853!220x220.jpg",
+            "name": "15.6 Pro i5 8G 1050MAX-Q 256G",
+            "particulars": null,
+            "price": "6299元",
+            "cost":null,
+            "evaluate":"很棒，喜欢",
+            "username":" 来自于 之唔张 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1525231579.56571137!220x220.jpg",
+            "name": "13.3小米笔记本Air 四核i7 8G 256G MX150 深空灰",
+            "particulars": null,
+            "price": "5999元",
+            "cost":null,
+            "evaluate":"轻薄完美，深空灰超帅！",
+            "username":" 来自于 1*215219 的评价 "
+        },{   
+            "title":"新品",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1533196142.85059414!220x220.png",
+            "name": "小米游戏本15.6”8代i7 16G 1T+256G 1060 6G",
+            "particulars": null,
+            "price": "7999元",
+            "cost":"8999元",
+            "evaluate":"16日10点下单，今天15点收到，请允许我用后再复评...",
+            "username":" 来自于 楼春雨 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1524636075.71677607!220x220.jpg",
+            "name": "13.3小米笔记本Air 四核i7 8G 256G MX150 银色",
+            "particulars":null,
+            "price": "5999元",
+            "cost":null,
+            "evaluate":"轻薄完美，深空灰超帅！",
+            "username":" 来自于 1*215219 的评价 "
+        },{   
+            "title":"减10元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1490595812.95661863!220x220.png",
+            "name": "小米无线鼠标",
+            "particulars":"耐脏亲肤涂层，人体工学设计",
+            "price": "59元",
+            "cost":"69元",
+            "evaluate":"送给高中好兄弟，我觉得不错的，可是他也没说过，我能怎...",
+            "username":" 来自于 胡伟强 的评价 "
+        },{   
+            "title":"减10元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1535103027.24861415!220x220.jpg",
+            "name": "小米便携鼠标",
+            "particulars": "轻薄便携，铝合金外壳 +ABS 材质",
+            "price": "59元",
+            "cost":"69元",
+            "evaluate":"手感非常好  不大不小  握着刚刚好  用着也很舒服...",
+            "username":" 来自于 王正磊 的评价"
+        },{   
+            "title":"减20元",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1490702347.3628109!220x220.png",
+            "name": "悦米机械键盘",
+            "particulars": "铝合金机身，TTC红轴，87 键",
+            "price": "269元",
+            "cost":"289元",
+            "evaluate":"很喜欢很给力！希望大家支持",
+            "username":"来自于 画笔 的评价 "
+        
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1469523170.25518983!220x220.jpg",
+            "name": "多功能转接器",
+            "particulars":null,
+            "price": "129元",
+            "cost":null,
+            "evaluate":null,
+            "username":"电脑"
+        }
+    ],"furniture":[
+        {   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1465366178.11466342!220x220.jpg",
+            "name": "米家恒温电水壶",
+            "particulars": "水温智能控制，304 不锈钢内胆",
+            "price": "199元",
+            "cost":null,
+            "evaluate":"做工还有待改进，下面不是很整齐，有一些缝子，希望能改...",
+            "username":" 来自于 799587060 的评价 "
+        },{   
+            "title":"新品",
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1506417289.23728408!220x220.jpg",
+            "name": "小米随身手电筒",
+            "particulars": "11 挡调光，随心而亮",
+            "price": "79元",
+            "cost":null,
+            "evaluate":"小米手电好 我的家乡更美",
+            "username":" 来自于 期待中的鱼 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1472609961.95298675!220x220.jpg",
+            "name": "米家扫地机器人",
+            "particulars":"智能路径规划，扫得干净扫得快",
+            "price": "1699元",
+            "cost":null,
+            "evaluate":"小米机器人真的很酷，边扫边识别家里的户型，智能规划路...",
+            "username":" 来自于 田字格 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1510020567.64467830!220x220.jpg",
+            "name": "小米米家空气净化器 2S",
+            "particulars":"OLED显示屏 / 激光颗粒物传感器",
+            "price": "899元",
+            "cost":null,
+            "evaluate":"价格实惠，颜值高，哈哈。太棒了。。",
+            "username":" 来自于 Lo排Me骨ve 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg",
+            "name": "米家压力IH电饭煲",
+            "particulars":"智能烹饪，灰铸铁粉体涂层内胆",
+            "price": "999元",
+            "cost":null,
+            "evaluate":"到货非常快，外观很漂亮，非常高大上的米米款锅，身外形...",
+            "username":" 来自于  的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1496647119.81414190!220x220.jpg",
+            "name": "飞利浦智睿球泡灯",
+            "particulars": "自由调节亮度，Wi-Fi随时操控",
+            "price": "49元",
+            "cost":null,
+            "evaluate":"很好，连接过程顺畅，远程操控灵敏",
+            "username":" 来自于 潘咘咘 的评价 "
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1495520422.36514041!220x220.jpg",
+            "name": "米家 LED 智能台灯",
+            "particulars": "无可视频闪，四种场景优化调光",
+            "price": "169元",
+            "cost":null,
+            "evaluate":"台灯挺漂亮，比想象的大，而且光源不错",
+            "username":" 来自于 侯克魁 的评价 "
+        
+        },{   
+            "title":null,
+            "imgUrl": "https://i1.mifile.cn/a1/pms_1490756071.3088664!220x220.png",
+            "name": "多功能转接器",
+            "particulars":null,
+            "price": "379元",
+            "cost":null,
+            "evaluate":null,
+            "username":"家居"
+        }
+    ]
+}
